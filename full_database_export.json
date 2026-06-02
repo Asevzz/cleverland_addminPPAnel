@@ -1,0 +1,4138 @@
+{
+  "activation_keys": {
+    "8MHU-L1VQ-1TG2-IG26": {
+      "created_at": "2026-05-30T16:45:53.078000+00:00",
+      "created_by": "admin_001",
+      "is_used": false,
+      "subject_id": "english",
+      "student_tg_id": null,
+      "code": "8MHU-L1VQ-1TG2-IG26"
+    },
+    "D9ON-E74I-CGE4-E79X": {
+      "created_at": "2026-05-27T17:42:40.907000+00:00",
+      "subject_id": "history_belarus",
+      "student_tg_id": 958147180,
+      "code": "D9ON-E74I-CGE4-E79X",
+      "created_by": "admin_001",
+      "is_used": true,
+      "activated_at": "2026-05-27T17:42:54.789000+00:00"
+    },
+    "HRA9-MJFZ-44OC-ADKU": {
+      "created_at": "2026-05-27T17:43:07.409000+00:00",
+      "subject_id": "society",
+      "student_tg_id": 958147180,
+      "code": "HRA9-MJFZ-44OC-ADKU",
+      "created_by": "admin_001",
+      "is_used": true,
+      "activated_at": "2026-05-27T17:43:16.423000+00:00"
+    },
+    "M53F-C46F-VDB1-BJOP": {
+      "created_at": "2026-05-30T16:45:50.163000+00:00",
+      "subject_id": "history_belarus",
+      "student_tg_id": 682506657,
+      "code": "M53F-C46F-VDB1-BJOP",
+      "created_by": "admin_001",
+      "is_used": true,
+      "activated_at": "2026-05-30T16:46:49.696000+00:00"
+    },
+    "PT24-EWJ3-OC6X-Z3IN": {
+      "created_at": "2026-05-27T18:51:04.896000+00:00",
+      "subject_id": "history_belarus",
+      "student_tg_id": 8623774895,
+      "code": "PT24-EWJ3-OC6X-Z3IN",
+      "created_by": "admin_001",
+      "is_used": true,
+      "activated_at": "2026-05-27T18:51:55.482000+00:00"
+    },
+    "RZWD-HZ9I-TM1W-K712": {
+      "created_at": "2026-05-30T16:45:55.614000+00:00",
+      "created_by": "admin_001",
+      "is_used": false,
+      "subject_id": "society",
+      "student_tg_id": null,
+      "code": "RZWD-HZ9I-TM1W-K712"
+    },
+    "ZHZ9-YL1L-ZIUJ-P4QL": {
+      "created_at": "2026-05-27T17:43:03.986000+00:00",
+      "subject_id": "english",
+      "student_tg_id": 958147180,
+      "code": "ZHZ9-YL1L-ZIUJ-P4QL",
+      "created_by": "admin_001",
+      "is_used": true,
+      "activated_at": "2026-05-27T17:43:41.374000+00:00"
+    }
+  },
+  "answers": {
+    "6tLDXaYtalq6oIVYEiPC": {
+      "student_tg_id": 958147180,
+      "question_index": 0,
+      "answered_at": "2026-05-27T18:29:53.213000+00:00",
+      "part": "А",
+      "is_correct": true,
+      "test_id": "test_admin_001_history_belarus_А_1779904823",
+      "given_answer": "ыываыва"
+    },
+    "8jbV9cMAiuEPZrk8G3BW": {
+      "student_tg_id": 8623774895,
+      "question_index": 0,
+      "answered_at": "2026-06-01T09:51:33.996000+00:00",
+      "part": "В",
+      "is_correct": true,
+      "test_id": "test_admin_001_history_belarus_В_1780307448",
+      "given_answer": "2026"
+    },
+    "9wLzeontlUEaPii2CsiG": {
+      "student_tg_id": 958147180,
+      "question_index": 0,
+      "answered_at": "2026-06-01T09:53:14.031000+00:00",
+      "part": "В",
+      "is_correct": true,
+      "test_id": "test_admin_001_history_belarus_В_1780307448",
+      "given_answer": "2026"
+    },
+    "A3HwWaa5FCHQDY2S4lmQ": {
+      "student_tg_id": 8623774895,
+      "question_index": 1,
+      "answered_at": "2026-06-01T09:41:40.389000+00:00",
+      "part": "А",
+      "is_correct": true,
+      "test_id": "test_admin_001_history_belarus_А_1779904823",
+      "given_answer": "куцкцуцкц"
+    },
+    "DoGOLQpdQxCoSMbODqjZ": {
+      "student_tg_id": 8623774895,
+      "question_index": 0,
+      "answered_at": "2026-06-01T09:49:29.158000+00:00",
+      "part": "А",
+      "is_correct": false,
+      "test_id": "test_admin_001_history_belarus_А_1779904494",
+      "given_answer": "даня"
+    },
+    "SyFT6FRbd176HboMx8tg": {
+      "student_tg_id": 8623774895,
+      "question_index": 0,
+      "answered_at": "2026-06-01T09:41:36.803000+00:00",
+      "part": "А",
+      "is_correct": true,
+      "test_id": "test_admin_001_history_belarus_А_1779904823",
+      "given_answer": "ыываыва"
+    },
+    "UMYNECs4F6WgwXznNmmG": {
+      "student_tg_id": 958147180,
+      "question_index": 1,
+      "answered_at": "2026-05-27T18:29:54.577000+00:00",
+      "part": "А",
+      "is_correct": true,
+      "test_id": "test_admin_001_history_belarus_А_1779904823",
+      "given_answer": "куцкцуцкц"
+    },
+    "eOGA4XUpihAFnLRYmpaT": {
+      "student_tg_id": 958147180,
+      "question_index": 0,
+      "answered_at": "2026-05-27T18:29:40.588000+00:00",
+      "part": "А",
+      "is_correct": false,
+      "test_id": "test_admin_001_history_belarus_А_1779904494",
+      "given_answer": "даня"
+    }
+  },
+  "exams": {},
+  "students": {
+    "682506657": {
+      "subjects": {
+        "history_belarus": "M53F-C46F-VDB1-BJOP"
+      },
+      "tg_id": 682506657,
+      "registered_at": "2026-05-30T16:45:41.813000+00:00",
+      "first_name": "Ника",
+      "username": "nikanosko",
+      "last_name": "Носко"
+    },
+    "8623774895": {
+      "subjects": {
+        "history_belarus": "PT24-EWJ3-OC6X-Z3IN"
+      },
+      "tg_id": 8623774895,
+      "registered_at": "2026-05-27T18:50:43.859000+00:00",
+      "first_name": "Лоботряс",
+      "username": "asevzz",
+      "last_name": "Данила"
+    },
+    "958147180": {
+      "subjects": {
+        "society": "HRA9-MJFZ-44OC-ADKU",
+        "history_belarus": "D9ON-E74I-CGE4-E79X",
+        "english": "ZHZ9-YL1L-ZIUJ-P4QL"
+      },
+      "tg_id": 958147180,
+      "registered_at": "2026-05-27T17:41:37.221000+00:00",
+      "first_name": "uze=",
+      "username": "youdogshit",
+      "last_name": ""
+    }
+  },
+  "teachers": {
+    "admin_001": {
+      "login": "admin",
+      "subjects": [
+        "history_belarus",
+        "english",
+        "society"
+      ],
+      "created_at": "2026-05-27T20:11:26.587627+00:00",
+      "password_hash": "scrypt:32768:8:1$6blIBZIgSALnUuUx$18dadf2813c57e26f0e67f4f7650ba767b128a955bb0053c1d43684d8dd873fcdea7239d8e9ce2e94716889854e44978ed63a9a8af7bc649e16f876adf219348",
+      "id": "admin_001",
+      "role": "admin"
+    }
+  },
+  "tests": {
+    "ct2023_english_variant10_A": {
+      "is_active": true,
+      "created_at": "2026-06-01T14:25:00.034062+00:00",
+      "part": "A",
+      "id": "ct2023_english_variant10_A",
+      "__subcollection_questions": {
+        "0": {
+          "part": "A",
+          "correct_text": null,
+          "index": 0,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "inspired"
+            },
+            "1": {
+              "text": "was inspiring"
+            },
+            "2": {
+              "text": "had inspired"
+            },
+            "3": {
+              "text": "was inspired"
+            },
+            "4": {
+              "text": "has inspired"
+            }
+          }
+        },
+        "1": {
+          "part": "A",
+          "correct_text": null,
+          "index": 1,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "has shown"
+            },
+            "1": {
+              "text": "will show"
+            },
+            "2": {
+              "text": "was shown"
+            },
+            "3": {
+              "text": "is shown"
+            },
+            "4": {
+              "text": "showed"
+            }
+          }
+        },
+        "10": {
+          "part": "A",
+          "correct_text": null,
+          "index": 10,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "spent"
+            },
+            "1": {
+              "text": "bought"
+            },
+            "2": {
+              "text": "charged"
+            },
+            "3": {
+              "text": "paid"
+            },
+            "4": {
+              "text": "devoted"
+            }
+          }
+        },
+        "11": {
+          "part": "A",
+          "correct_text": null,
+          "index": 11,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "amount"
+            },
+            "1": {
+              "text": "much"
+            },
+            "2": {
+              "text": "lots"
+            },
+            "3": {
+              "text": "several"
+            },
+            "4": {
+              "text": "number"
+            }
+          }
+        },
+        "12": {
+          "part": "A",
+          "correct_text": null,
+          "index": 12,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "I don't mind it at all."
+            },
+            "1": {
+              "text": "What's wrong with you today?"
+            },
+            "2": {
+              "text": "With pleasure."
+            },
+            "3": {
+              "text": "Sorry, but I couldn't come."
+            },
+            "4": {
+              "text": "I'd love to, but I'm terribly busy."
+            }
+          }
+        },
+        "13": {
+          "part": "A",
+          "correct_text": null,
+          "index": 13,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "Either is fine with me."
+            },
+            "1": {
+              "text": "I'm afraid I don't."
+            },
+            "2": {
+              "text": "Nothing at all."
+            },
+            "3": {
+              "text": "That's nice of you to offer."
+            },
+            "4": {
+              "text": "Feel free."
+            }
+          }
+        },
+        "14": {
+          "part": "A",
+          "correct_text": null,
+          "index": 14,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "She has a job with animals."
+            },
+            "1": {
+              "text": "She only likes sea animals."
+            },
+            "2": {
+              "text": "She is going to be an animal doctor."
+            },
+            "3": {
+              "text": "She finished studying a year ago."
+            }
+          }
+        },
+        "15": {
+          "part": "A",
+          "correct_text": null,
+          "index": 15,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "she found out about an organisation called Archelon."
+            },
+            "1": {
+              "text": "she enjoyed herself and formed new friendships."
+            },
+            "2": {
+              "text": "she volunteered for several animal organisations."
+            },
+            "3": {
+              "text": "she worked for Archelon as part of her training."
+            }
+          }
+        },
+        "2": {
+          "part": "A",
+          "correct_text": null,
+          "index": 2,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "was joined"
+            },
+            "1": {
+              "text": "had joined"
+            },
+            "2": {
+              "text": "has joined"
+            },
+            "3": {
+              "text": "will join"
+            },
+            "4": {
+              "text": "will be joined"
+            }
+          }
+        },
+        "3": {
+          "part": "A",
+          "correct_text": null,
+          "index": 3,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "was playing"
+            },
+            "1": {
+              "text": "was played"
+            },
+            "2": {
+              "text": "has played"
+            },
+            "3": {
+              "text": "has been playing"
+            },
+            "4": {
+              "text": "will play"
+            }
+          }
+        },
+        "4": {
+          "part": "A",
+          "correct_text": null,
+          "index": 4,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "the most polite"
+            },
+            "1": {
+              "text": "more politer"
+            },
+            "2": {
+              "text": "the most politest"
+            },
+            "3": {
+              "text": "more polite"
+            },
+            "4": {
+              "text": "polite"
+            }
+          }
+        },
+        "5": {
+          "part": "A",
+          "correct_text": null,
+          "index": 5,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "a hundred"
+            },
+            "1": {
+              "text": "hundred"
+            },
+            "2": {
+              "text": "hundreds"
+            },
+            "3": {
+              "text": "hundred of"
+            },
+            "4": {
+              "text": "hundredth"
+            }
+          }
+        },
+        "6": {
+          "part": "A",
+          "correct_text": null,
+          "index": 6,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "The, —"
+            },
+            "1": {
+              "text": "—, —"
+            },
+            "2": {
+              "text": "The, the"
+            },
+            "3": {
+              "text": "A, —"
+            },
+            "4": {
+              "text": "—, the"
+            }
+          }
+        },
+        "7": {
+          "part": "A",
+          "correct_text": null,
+          "index": 7,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "a, the"
+            },
+            "1": {
+              "text": "—, a"
+            },
+            "2": {
+              "text": "the, —"
+            },
+            "3": {
+              "text": "—, —"
+            },
+            "4": {
+              "text": "the, the"
+            }
+          }
+        },
+        "8": {
+          "part": "A",
+          "correct_text": null,
+          "index": 8,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "known"
+            },
+            "1": {
+              "text": "keen"
+            },
+            "2": {
+              "text": "eager"
+            },
+            "3": {
+              "text": "good"
+            },
+            "4": {
+              "text": "aware"
+            }
+          }
+        },
+        "9": {
+          "part": "A",
+          "correct_text": null,
+          "index": 9,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "go"
+            },
+            "1": {
+              "text": "stay"
+            },
+            "2": {
+              "text": "attend"
+            },
+            "3": {
+              "text": "come"
+            },
+            "4": {
+              "text": "invite"
+            }
+          }
+        }
+      }
+    },
+    "ct2023_english_variant1_A": {
+      "is_active": true,
+      "created_at": "2026-06-01T14:21:11.232879+00:00",
+      "part": "A",
+      "id": "ct2023_english_variant1_A",
+      "__subcollection_questions": {
+        "0": {
+          "part": "A",
+          "correct_text": null,
+          "index": 0,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "had had"
+            },
+            "1": {
+              "text": "are having"
+            },
+            "2": {
+              "text": "have had"
+            },
+            "3": {
+              "text": "will have"
+            },
+            "4": {
+              "text": "are had"
+            }
+          }
+        },
+        "1": {
+          "part": "A",
+          "correct_text": null,
+          "index": 1,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "had decided"
+            },
+            "1": {
+              "text": "was deciding"
+            },
+            "2": {
+              "text": "is decided"
+            },
+            "3": {
+              "text": "was decided"
+            },
+            "4": {
+              "text": "decides"
+            }
+          }
+        },
+        "10": {
+          "part": "A",
+          "correct_text": null,
+          "index": 10,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "seat"
+            },
+            "1": {
+              "text": "place"
+            },
+            "2": {
+              "text": "space"
+            },
+            "3": {
+              "text": "charge"
+            },
+            "4": {
+              "text": "part"
+            }
+          }
+        },
+        "11": {
+          "part": "A",
+          "correct_text": null,
+          "index": 11,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "referred"
+            },
+            "1": {
+              "text": "recognised"
+            },
+            "2": {
+              "text": "recovered"
+            },
+            "3": {
+              "text": "reminded"
+            },
+            "4": {
+              "text": "remembered"
+            }
+          }
+        },
+        "12": {
+          "part": "A",
+          "correct_text": null,
+          "index": 12,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "Can you give me a hand with it?"
+            },
+            "1": {
+              "text": "I'd rather you didn't."
+            },
+            "2": {
+              "text": "Do you need a hand?"
+            },
+            "3": {
+              "text": "Well, couldn't be better."
+            },
+            "4": {
+              "text": "That would be great!"
+            }
+          }
+        },
+        "13": {
+          "part": "A",
+          "correct_text": null,
+          "index": 13,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "Sure. Here they are."
+            },
+            "1": {
+              "text": "Never mind."
+            },
+            "2": {
+              "text": "Nothing at all."
+            },
+            "3": {
+              "text": "Either is fine with me."
+            },
+            "4": {
+              "text": "Not at all."
+            }
+          }
+        },
+        "14": {
+          "part": "A",
+          "correct_text": null,
+          "index": 14,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "is grown by the staff."
+            },
+            "1": {
+              "text": "comes from places in or close to Brighton."
+            },
+            "2": {
+              "text": "comes from all over the world."
+            },
+            "3": {
+              "text": "comes all over Britain."
+            }
+          }
+        },
+        "15": {
+          "part": "A",
+          "correct_text": null,
+          "index": 15,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "at junior school"
+            },
+            "1": {
+              "text": "at university"
+            },
+            "2": {
+              "text": "at home with the help of her family"
+            },
+            "3": {
+              "text": "in a hotel"
+            }
+          }
+        },
+        "2": {
+          "part": "A",
+          "correct_text": null,
+          "index": 2,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "use"
+            },
+            "1": {
+              "text": "are used"
+            },
+            "2": {
+              "text": "are using"
+            },
+            "3": {
+              "text": "used"
+            },
+            "4": {
+              "text": "have used"
+            }
+          }
+        },
+        "3": {
+          "part": "A",
+          "correct_text": null,
+          "index": 3,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "aren't found"
+            },
+            "1": {
+              "text": "hadn't found"
+            },
+            "2": {
+              "text": "weren't found"
+            },
+            "3": {
+              "text": "won't be found"
+            },
+            "4": {
+              "text": "won't find"
+            }
+          }
+        },
+        "4": {
+          "part": "A",
+          "correct_text": null,
+          "index": 4,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "lucky"
+            },
+            "1": {
+              "text": "more luckier"
+            },
+            "2": {
+              "text": "the most luckiest"
+            },
+            "3": {
+              "text": "the luckiest"
+            },
+            "4": {
+              "text": "luckier"
+            }
+          }
+        },
+        "5": {
+          "part": "A",
+          "correct_text": null,
+          "index": 5,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "sixty's"
+            },
+            "1": {
+              "text": "sixtieth"
+            },
+            "2": {
+              "text": "sixty"
+            },
+            "3": {
+              "text": "sixties'"
+            },
+            "4": {
+              "text": "sixties"
+            }
+          }
+        },
+        "6": {
+          "part": "A",
+          "correct_text": null,
+          "index": 6,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "The, the"
+            },
+            "1": {
+              "text": "—, —"
+            },
+            "2": {
+              "text": "The, —"
+            },
+            "3": {
+              "text": "A, the"
+            },
+            "4": {
+              "text": "—, an"
+            }
+          }
+        },
+        "7": {
+          "part": "A",
+          "correct_text": null,
+          "index": 7,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "a, —"
+            },
+            "1": {
+              "text": "the, a"
+            },
+            "2": {
+              "text": "—, —"
+            },
+            "3": {
+              "text": "the, the"
+            },
+            "4": {
+              "text": "a, a"
+            }
+          }
+        },
+        "8": {
+          "part": "A",
+          "correct_text": null,
+          "index": 8,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "referred"
+            },
+            "1": {
+              "text": "called"
+            },
+            "2": {
+              "text": "known"
+            },
+            "3": {
+              "text": "familiar"
+            },
+            "4": {
+              "text": "aware"
+            }
+          }
+        },
+        "9": {
+          "part": "A",
+          "correct_text": null,
+          "index": 9,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "suit"
+            },
+            "1": {
+              "text": "uniform"
+            },
+            "2": {
+              "text": "coat"
+            },
+            "3": {
+              "text": "costume"
+            },
+            "4": {
+              "text": "hat"
+            }
+          }
+        }
+      }
+    },
+    "ct2023_english_variant2_A": {
+      "created_at": "2026-06-01T14:21:53.763612+00:00",
+      "is_active": true,
+      "part": "A",
+      "id": "ct2023_english_variant2_A",
+      "__subcollection_questions": {
+        "0": {
+          "part": "A",
+          "correct_text": null,
+          "index": 0,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "had delivered"
+            },
+            "1": {
+              "text": "will be delivered"
+            },
+            "2": {
+              "text": "is delivered"
+            },
+            "3": {
+              "text": "was delivered"
+            },
+            "4": {
+              "text": "delivers"
+            }
+          }
+        },
+        "1": {
+          "part": "A",
+          "correct_text": null,
+          "index": 1,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "have started"
+            },
+            "1": {
+              "text": "started"
+            },
+            "2": {
+              "text": "were started"
+            },
+            "3": {
+              "text": "have been starting"
+            },
+            "4": {
+              "text": "are starting"
+            }
+          }
+        },
+        "10": {
+          "part": "A",
+          "correct_text": null,
+          "index": 10,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "check"
+            },
+            "1": {
+              "text": "hold"
+            },
+            "2": {
+              "text": "keep"
+            },
+            "3": {
+              "text": "carry"
+            },
+            "4": {
+              "text": "notice"
+            }
+          }
+        },
+        "11": {
+          "part": "A",
+          "correct_text": null,
+          "index": 11,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "delay"
+            },
+            "1": {
+              "text": "miss"
+            },
+            "2": {
+              "text": "attend"
+            },
+            "3": {
+              "text": "expect"
+            },
+            "4": {
+              "text": "wait"
+            }
+          }
+        },
+        "12": {
+          "part": "A",
+          "correct_text": null,
+          "index": 12,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "Depends what it is."
+            },
+            "1": {
+              "text": "No, go ahead."
+            },
+            "2": {
+              "text": "Nothing at all."
+            },
+            "3": {
+              "text": "Of course, I will."
+            },
+            "4": {
+              "text": "I certainly don't."
+            }
+          }
+        },
+        "13": {
+          "part": "A",
+          "correct_text": null,
+          "index": 13,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "I'm afraid I don't."
+            },
+            "1": {
+              "text": "You're right."
+            },
+            "2": {
+              "text": "I'm OK, thanks."
+            },
+            "3": {
+              "text": "Me too."
+            },
+            "4": {
+              "text": "Neither, thank you."
+            }
+          }
+        },
+        "14": {
+          "part": "A",
+          "correct_text": null,
+          "index": 14,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "Thirty thousand people watch them on TV."
+            },
+            "1": {
+              "text": "Young athletes take part just to have fun."
+            },
+            "2": {
+              "text": "They started over 100 years ago."
+            },
+            "3": {
+              "text": "Some former students take part."
+            }
+          }
+        },
+        "15": {
+          "part": "A",
+          "correct_text": null,
+          "index": 15,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "Other countries should try to hold a similar competition."
+            },
+            "1": {
+              "text": "They have grown too big in recent years."
+            },
+            "2": {
+              "text": "Schools are always keen to do well."
+            },
+            "3": {
+              "text": "They encourage young athletes to do their best."
+            }
+          }
+        },
+        "2": {
+          "part": "A",
+          "correct_text": null,
+          "index": 2,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "shocked"
+            },
+            "1": {
+              "text": "were shocking"
+            },
+            "2": {
+              "text": "had shocked"
+            },
+            "3": {
+              "text": "have shocked"
+            },
+            "4": {
+              "text": "were shocked"
+            }
+          }
+        },
+        "3": {
+          "part": "A",
+          "correct_text": null,
+          "index": 3,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "was grown"
+            },
+            "1": {
+              "text": "was growing"
+            },
+            "2": {
+              "text": "will be grown"
+            },
+            "3": {
+              "text": "has grown"
+            },
+            "4": {
+              "text": "grows"
+            }
+          }
+        },
+        "4": {
+          "part": "A",
+          "correct_text": null,
+          "index": 4,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "the smallest"
+            },
+            "1": {
+              "text": "most smaller"
+            },
+            "2": {
+              "text": "the most smallest"
+            },
+            "3": {
+              "text": "more smallest"
+            },
+            "4": {
+              "text": "more smaller"
+            }
+          }
+        },
+        "5": {
+          "part": "A",
+          "correct_text": null,
+          "index": 5,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "forty's"
+            },
+            "1": {
+              "text": "forties'"
+            },
+            "2": {
+              "text": "fortieth"
+            },
+            "3": {
+              "text": "forties"
+            },
+            "4": {
+              "text": "forty"
+            }
+          }
+        },
+        "6": {
+          "part": "A",
+          "correct_text": null,
+          "index": 6,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "The, the"
+            },
+            "1": {
+              "text": "The, —"
+            },
+            "2": {
+              "text": "—, the"
+            },
+            "3": {
+              "text": "An, the"
+            },
+            "4": {
+              "text": "—, —"
+            }
+          }
+        },
+        "7": {
+          "part": "A",
+          "correct_text": null,
+          "index": 7,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "—, —"
+            },
+            "1": {
+              "text": "the, —"
+            },
+            "2": {
+              "text": "a, the"
+            },
+            "3": {
+              "text": "—, the"
+            },
+            "4": {
+              "text": "the, a"
+            }
+          }
+        },
+        "8": {
+          "part": "A",
+          "correct_text": null,
+          "index": 8,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "adapting"
+            },
+            "1": {
+              "text": "dealing"
+            },
+            "2": {
+              "text": "considering"
+            },
+            "3": {
+              "text": "behaving"
+            },
+            "4": {
+              "text": "treating"
+            }
+          }
+        },
+        "9": {
+          "part": "A",
+          "correct_text": null,
+          "index": 9,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "got"
+            },
+            "1": {
+              "text": "started"
+            },
+            "2": {
+              "text": "qualified"
+            },
+            "3": {
+              "text": "became"
+            },
+            "4": {
+              "text": "tried"
+            }
+          }
+        }
+      }
+    },
+    "ct2023_english_variant3_A": {
+      "is_active": true,
+      "created_at": "2026-06-01T14:22:21.432826+00:00",
+      "part": "A",
+      "id": "ct2023_english_variant3_A",
+      "__subcollection_questions": {
+        "0": {
+          "part": "A",
+          "correct_text": null,
+          "index": 0,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "was never heard"
+            },
+            "1": {
+              "text": "was never hearing"
+            },
+            "2": {
+              "text": "had never heard"
+            },
+            "3": {
+              "text": "have never heard"
+            },
+            "4": {
+              "text": "will never hear"
+            }
+          }
+        },
+        "1": {
+          "part": "A",
+          "correct_text": null,
+          "index": 1,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "is happened"
+            },
+            "1": {
+              "text": "was happened"
+            },
+            "2": {
+              "text": "will be happened"
+            },
+            "3": {
+              "text": "had happened"
+            },
+            "4": {
+              "text": "will happen"
+            }
+          }
+        },
+        "10": {
+          "part": "A",
+          "correct_text": null,
+          "index": 10,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "correct"
+            },
+            "1": {
+              "text": "suitable"
+            },
+            "2": {
+              "text": "exact"
+            },
+            "3": {
+              "text": "regular"
+            },
+            "4": {
+              "text": "capable"
+            }
+          }
+        },
+        "11": {
+          "part": "A",
+          "correct_text": null,
+          "index": 11,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "dealing"
+            },
+            "1": {
+              "text": "appearing"
+            },
+            "2": {
+              "text": "going"
+            },
+            "3": {
+              "text": "coming"
+            },
+            "4": {
+              "text": "attending"
+            }
+          }
+        },
+        "12": {
+          "part": "A",
+          "correct_text": null,
+          "index": 12,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "I totally agree, thank you."
+            },
+            "1": {
+              "text": "I'm so sorry but I'm still reading it."
+            },
+            "2": {
+              "text": "Sorry, I must return it."
+            },
+            "3": {
+              "text": "Well, I'm not sure, either."
+            },
+            "4": {
+              "text": "Oh no, no problem."
+            }
+          }
+        },
+        "13": {
+          "part": "A",
+          "correct_text": null,
+          "index": 13,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "I'm afraid I don't."
+            },
+            "1": {
+              "text": "Nothing at all."
+            },
+            "2": {
+              "text": "No, go ahead."
+            },
+            "3": {
+              "text": "Here you are."
+            },
+            "4": {
+              "text": "Do you really?"
+            }
+          }
+        },
+        "14": {
+          "part": "A",
+          "correct_text": null,
+          "index": 14,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "Fewer young actors were needed in America."
+            },
+            "1": {
+              "text": "Brand new songs have been included in the UK."
+            },
+            "2": {
+              "text": "The UK show has won more prizes."
+            },
+            "3": {
+              "text": "Audiences were bigger in America."
+            }
+          }
+        },
+        "15": {
+          "part": "A",
+          "correct_text": null,
+          "index": 15,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "He's glad that his family come daily to support him."
+            },
+            "1": {
+              "text": "He's embarrassed when his friends come to watch him."
+            },
+            "2": {
+              "text": "He's delighted that he's doing something that he loves."
+            },
+            "3": {
+              "text": "He's anxious about the amount of schoolwork he's missing."
+            }
+          }
+        },
+        "2": {
+          "part": "A",
+          "correct_text": null,
+          "index": 2,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "rains"
+            },
+            "1": {
+              "text": "was rained"
+            },
+            "2": {
+              "text": "will be rained"
+            },
+            "3": {
+              "text": "had rained"
+            },
+            "4": {
+              "text": "is rained"
+            }
+          }
+        },
+        "3": {
+          "part": "A",
+          "correct_text": null,
+          "index": 3,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "has involved"
+            },
+            "1": {
+              "text": "is involved"
+            },
+            "2": {
+              "text": "was involving"
+            },
+            "3": {
+              "text": "will involve"
+            },
+            "4": {
+              "text": "had involved"
+            }
+          }
+        },
+        "4": {
+          "part": "A",
+          "correct_text": null,
+          "index": 4,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "more richest"
+            },
+            "1": {
+              "text": "more richer"
+            },
+            "2": {
+              "text": "richer"
+            },
+            "3": {
+              "text": "the most richest"
+            },
+            "4": {
+              "text": "the richest"
+            }
+          }
+        },
+        "5": {
+          "part": "A",
+          "correct_text": null,
+          "index": 5,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "thirtieth"
+            },
+            "1": {
+              "text": "thirty"
+            },
+            "2": {
+              "text": "thirties"
+            },
+            "3": {
+              "text": "thirty's"
+            },
+            "4": {
+              "text": "thirties'"
+            }
+          }
+        },
+        "6": {
+          "part": "A",
+          "correct_text": null,
+          "index": 6,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "—, —"
+            },
+            "1": {
+              "text": "—, the"
+            },
+            "2": {
+              "text": "the, —"
+            },
+            "3": {
+              "text": "the, the"
+            },
+            "4": {
+              "text": "—, a"
+            }
+          }
+        },
+        "7": {
+          "part": "A",
+          "correct_text": null,
+          "index": 7,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "—, a"
+            },
+            "1": {
+              "text": "—, the"
+            },
+            "2": {
+              "text": "the, —"
+            },
+            "3": {
+              "text": "a, —"
+            },
+            "4": {
+              "text": "a, a"
+            }
+          }
+        },
+        "8": {
+          "part": "A",
+          "correct_text": null,
+          "index": 8,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "create"
+            },
+            "1": {
+              "text": "think"
+            },
+            "2": {
+              "text": "dream"
+            },
+            "3": {
+              "text": "believe"
+            },
+            "4": {
+              "text": "imagine"
+            }
+          }
+        },
+        "9": {
+          "part": "A",
+          "correct_text": null,
+          "index": 9,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "remind"
+            },
+            "1": {
+              "text": "repeat"
+            },
+            "2": {
+              "text": "require"
+            },
+            "3": {
+              "text": "realise"
+            },
+            "4": {
+              "text": "resemble"
+            }
+          }
+        }
+      }
+    },
+    "ct2023_english_variant4_A": {
+      "part": "A",
+      "created_at": "2026-06-01T14:22:43.172833+00:00",
+      "is_active": true,
+      "id": "ct2023_english_variant4_A",
+      "__subcollection_questions": {
+        "0": {
+          "part": "A",
+          "correct_text": null,
+          "index": 0,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "were never heard"
+            },
+            "1": {
+              "text": "have never heard"
+            },
+            "2": {
+              "text": "are never heard"
+            },
+            "3": {
+              "text": "were never hearing"
+            },
+            "4": {
+              "text": "had never heard"
+            }
+          }
+        },
+        "1": {
+          "part": "A",
+          "correct_text": null,
+          "index": 1,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "was started"
+            },
+            "1": {
+              "text": "has started"
+            },
+            "2": {
+              "text": "has been starting"
+            },
+            "3": {
+              "text": "started"
+            },
+            "4": {
+              "text": "is started"
+            }
+          }
+        },
+        "10": {
+          "part": "A",
+          "correct_text": null,
+          "index": 10,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "makes"
+            },
+            "1": {
+              "text": "does"
+            },
+            "2": {
+              "text": "has"
+            },
+            "3": {
+              "text": "puts"
+            },
+            "4": {
+              "text": "allows"
+            }
+          }
+        },
+        "11": {
+          "part": "A",
+          "correct_text": null,
+          "index": 11,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "objected"
+            },
+            "1": {
+              "text": "forbidden"
+            },
+            "2": {
+              "text": "afforded"
+            },
+            "3": {
+              "text": "allowed"
+            },
+            "4": {
+              "text": "let"
+            }
+          }
+        },
+        "12": {
+          "part": "A",
+          "correct_text": null,
+          "index": 12,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "I wish I could ski well."
+            },
+            "1": {
+              "text": "I'm not keen on it."
+            },
+            "2": {
+              "text": "I'm afraid I don't."
+            },
+            "3": {
+              "text": "Actually, I don't know much about it."
+            },
+            "4": {
+              "text": "Isn't it terribly dangerous?"
+            }
+          }
+        },
+        "13": {
+          "part": "A",
+          "correct_text": null,
+          "index": 13,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "That's not very likely."
+            },
+            "1": {
+              "text": "Sure, go right ahead."
+            },
+            "2": {
+              "text": "Nothing at all."
+            },
+            "3": {
+              "text": "Are you really?"
+            },
+            "4": {
+              "text": "Not at all."
+            }
+          }
+        },
+        "14": {
+          "part": "A",
+          "correct_text": null,
+          "index": 14,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "He wanted to be like his friends."
+            },
+            "1": {
+              "text": "He didn't think he could get the qualifications he needed."
+            },
+            "2": {
+              "text": "He wanted to earn money."
+            },
+            "3": {
+              "text": "He regretted not going."
+            }
+          }
+        },
+        "15": {
+          "part": "A",
+          "correct_text": null,
+          "index": 15,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "because he loved his job."
+            },
+            "1": {
+              "text": "so he could continue working."
+            },
+            "2": {
+              "text": "because he couldn't find a history course at college."
+            },
+            "3": {
+              "text": "because it was too late to go to college."
+            }
+          }
+        },
+        "2": {
+          "part": "A",
+          "correct_text": null,
+          "index": 2,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "took"
+            },
+            "1": {
+              "text": "have taken"
+            },
+            "2": {
+              "text": "were taking"
+            },
+            "3": {
+              "text": "had taken"
+            },
+            "4": {
+              "text": "were taken"
+            }
+          }
+        },
+        "3": {
+          "part": "A",
+          "correct_text": null,
+          "index": 3,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "will live"
+            },
+            "1": {
+              "text": "will be lived"
+            },
+            "2": {
+              "text": "lives"
+            },
+            "3": {
+              "text": "had lived"
+            },
+            "4": {
+              "text": "is living"
+            }
+          }
+        },
+        "4": {
+          "part": "A",
+          "correct_text": null,
+          "index": 4,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "more longest"
+            },
+            "1": {
+              "text": "the most longest"
+            },
+            "2": {
+              "text": "the longest"
+            },
+            "3": {
+              "text": "more longer"
+            },
+            "4": {
+              "text": "more long"
+            }
+          }
+        },
+        "5": {
+          "part": "A",
+          "correct_text": null,
+          "index": 5,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "fifty"
+            },
+            "1": {
+              "text": "fifties"
+            },
+            "2": {
+              "text": "fiftieth"
+            },
+            "3": {
+              "text": "fifty's"
+            },
+            "4": {
+              "text": "fifties'"
+            }
+          }
+        },
+        "6": {
+          "part": "A",
+          "correct_text": null,
+          "index": 6,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "—, the"
+            },
+            "1": {
+              "text": "the, —"
+            },
+            "2": {
+              "text": "—, —"
+            },
+            "3": {
+              "text": "the, the"
+            },
+            "4": {
+              "text": "the, a"
+            }
+          }
+        },
+        "7": {
+          "part": "A",
+          "correct_text": null,
+          "index": 7,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "a, the"
+            },
+            "1": {
+              "text": "the, —"
+            },
+            "2": {
+              "text": "—, the"
+            },
+            "3": {
+              "text": "—, —"
+            },
+            "4": {
+              "text": "the, the"
+            }
+          }
+        },
+        "8": {
+          "part": "A",
+          "correct_text": null,
+          "index": 8,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "long"
+            },
+            "1": {
+              "text": "deep"
+            },
+            "2": {
+              "text": "wide"
+            },
+            "3": {
+              "text": "high"
+            },
+            "4": {
+              "text": "exciting"
+            }
+          }
+        },
+        "9": {
+          "part": "A",
+          "correct_text": null,
+          "index": 9,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "borrows"
+            },
+            "1": {
+              "text": "demands"
+            },
+            "2": {
+              "text": "depends"
+            },
+            "3": {
+              "text": "appears"
+            },
+            "4": {
+              "text": "supplies"
+            }
+          }
+        }
+      }
+    },
+    "ct2023_english_variant5_A": {
+      "part": "A",
+      "created_at": "2026-06-01T14:23:04.422995+00:00",
+      "is_active": true,
+      "id": "ct2023_english_variant5_A",
+      "__subcollection_questions": {
+        "0": {
+          "part": "A",
+          "correct_text": null,
+          "index": 0,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "had stood"
+            },
+            "1": {
+              "text": "have been standing"
+            },
+            "2": {
+              "text": "were standing"
+            },
+            "3": {
+              "text": "were stood"
+            },
+            "4": {
+              "text": "have stood"
+            }
+          }
+        },
+        "1": {
+          "part": "A",
+          "correct_text": null,
+          "index": 1,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "were decided"
+            },
+            "1": {
+              "text": "have decided"
+            },
+            "2": {
+              "text": "decide"
+            },
+            "3": {
+              "text": "were deciding"
+            },
+            "4": {
+              "text": "decided"
+            }
+          }
+        },
+        "10": {
+          "part": "A",
+          "correct_text": null,
+          "index": 10,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "check"
+            },
+            "1": {
+              "text": "hold"
+            },
+            "2": {
+              "text": "keep"
+            },
+            "3": {
+              "text": "carry"
+            },
+            "4": {
+              "text": "notice"
+            }
+          }
+        },
+        "11": {
+          "part": "A",
+          "correct_text": null,
+          "index": 11,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "delay"
+            },
+            "1": {
+              "text": "miss"
+            },
+            "2": {
+              "text": "attend"
+            },
+            "3": {
+              "text": "expect"
+            },
+            "4": {
+              "text": "wait"
+            }
+          }
+        },
+        "12": {
+          "part": "A",
+          "correct_text": null,
+          "index": 12,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "No, not at all."
+            },
+            "1": {
+              "text": "That's right."
+            },
+            "2": {
+              "text": "That's so kind of you."
+            },
+            "3": {
+              "text": "Don't mention it."
+            },
+            "4": {
+              "text": "Do you really?"
+            }
+          }
+        },
+        "13": {
+          "part": "A",
+          "correct_text": null,
+          "index": 13,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "Yes of course. Either will do."
+            },
+            "1": {
+              "text": "It's a pity."
+            },
+            "2": {
+              "text": "Here you are."
+            },
+            "3": {
+              "text": "No, go ahead."
+            },
+            "4": {
+              "text": "I don't mind."
+            }
+          }
+        },
+        "14": {
+          "part": "A",
+          "correct_text": null,
+          "index": 14,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "They are the best way to listen to music."
+            },
+            "1": {
+              "text": "Listening to music is her biggest love."
+            },
+            "2": {
+              "text": "They can be a great social event."
+            },
+            "3": {
+              "text": "Careless behaviour spoils music festivals for other people."
+            }
+          }
+        },
+        "15": {
+          "part": "A",
+          "correct_text": null,
+          "index": 15,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "Be careful not to lose anything."
+            },
+            "1": {
+              "text": "Be prepared for any weather."
+            },
+            "2": {
+              "text": "Keep all your things in a plastic bag."
+            },
+            "3": {
+              "text": "Leave your mobile phone at home."
+            }
+          }
+        },
+        "2": {
+          "part": "A",
+          "correct_text": null,
+          "index": 2,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "had happened"
+            },
+            "1": {
+              "text": "has been happening"
+            },
+            "2": {
+              "text": "was happened"
+            },
+            "3": {
+              "text": "happens"
+            },
+            "4": {
+              "text": "is happening"
+            }
+          }
+        },
+        "3": {
+          "part": "A",
+          "correct_text": null,
+          "index": 3,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "told"
+            },
+            "1": {
+              "text": "have told"
+            },
+            "2": {
+              "text": "were told"
+            },
+            "3": {
+              "text": "were telling"
+            },
+            "4": {
+              "text": "tell"
+            }
+          }
+        },
+        "4": {
+          "part": "A",
+          "correct_text": null,
+          "index": 4,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "kind"
+            },
+            "1": {
+              "text": "the kindest"
+            },
+            "2": {
+              "text": "more kinder"
+            },
+            "3": {
+              "text": "the most kindest"
+            },
+            "4": {
+              "text": "kinder"
+            }
+          }
+        },
+        "5": {
+          "part": "A",
+          "correct_text": null,
+          "index": 5,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "forty's"
+            },
+            "1": {
+              "text": "forties'"
+            },
+            "2": {
+              "text": "fortieth"
+            },
+            "3": {
+              "text": "forties"
+            },
+            "4": {
+              "text": "forty"
+            }
+          }
+        },
+        "6": {
+          "part": "A",
+          "correct_text": null,
+          "index": 6,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "The, the"
+            },
+            "1": {
+              "text": "The, —"
+            },
+            "2": {
+              "text": "—, the"
+            },
+            "3": {
+              "text": "An, the"
+            },
+            "4": {
+              "text": "—, —"
+            }
+          }
+        },
+        "7": {
+          "part": "A",
+          "correct_text": null,
+          "index": 7,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "a, —"
+            },
+            "1": {
+              "text": "the, —"
+            },
+            "2": {
+              "text": "—, the"
+            },
+            "3": {
+              "text": "the, the"
+            },
+            "4": {
+              "text": "—, an"
+            }
+          }
+        },
+        "8": {
+          "part": "A",
+          "correct_text": null,
+          "index": 8,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "adapting"
+            },
+            "1": {
+              "text": "dealing"
+            },
+            "2": {
+              "text": "considering"
+            },
+            "3": {
+              "text": "behaving"
+            },
+            "4": {
+              "text": "treating"
+            }
+          }
+        },
+        "9": {
+          "part": "A",
+          "correct_text": null,
+          "index": 9,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "got"
+            },
+            "1": {
+              "text": "started"
+            },
+            "2": {
+              "text": "qualified"
+            },
+            "3": {
+              "text": "became"
+            },
+            "4": {
+              "text": "tried"
+            }
+          }
+        }
+      }
+    },
+    "ct2023_english_variant6_A": {
+      "created_at": "2026-06-01T14:23:25.627542+00:00",
+      "is_active": true,
+      "part": "A",
+      "id": "ct2023_english_variant6_A",
+      "__subcollection_questions": {
+        "0": {
+          "part": "A",
+          "correct_text": null,
+          "index": 0,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "inspired"
+            },
+            "1": {
+              "text": "was inspiring"
+            },
+            "2": {
+              "text": "had inspired"
+            },
+            "3": {
+              "text": "was inspired"
+            },
+            "4": {
+              "text": "has inspired"
+            }
+          }
+        },
+        "1": {
+          "part": "A",
+          "correct_text": null,
+          "index": 1,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "has shown"
+            },
+            "1": {
+              "text": "will show"
+            },
+            "2": {
+              "text": "was shown"
+            },
+            "3": {
+              "text": "is shown"
+            },
+            "4": {
+              "text": "showed"
+            }
+          }
+        },
+        "10": {
+          "part": "A",
+          "correct_text": null,
+          "index": 10,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "spent"
+            },
+            "1": {
+              "text": "bought"
+            },
+            "2": {
+              "text": "charged"
+            },
+            "3": {
+              "text": "paid"
+            },
+            "4": {
+              "text": "devoted"
+            }
+          }
+        },
+        "11": {
+          "part": "A",
+          "correct_text": null,
+          "index": 11,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "amount"
+            },
+            "1": {
+              "text": "much"
+            },
+            "2": {
+              "text": "lots"
+            },
+            "3": {
+              "text": "several"
+            },
+            "4": {
+              "text": "number"
+            }
+          }
+        },
+        "12": {
+          "part": "A",
+          "correct_text": null,
+          "index": 12,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "I don't mind it at all."
+            },
+            "1": {
+              "text": "What's wrong with you today?"
+            },
+            "2": {
+              "text": "With pleasure."
+            },
+            "3": {
+              "text": "Sorry, but I couldn't come."
+            },
+            "4": {
+              "text": "I'd love to, but I'm terribly busy."
+            }
+          }
+        },
+        "13": {
+          "part": "A",
+          "correct_text": null,
+          "index": 13,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "Either is fine with me."
+            },
+            "1": {
+              "text": "I'm afraid I don't."
+            },
+            "2": {
+              "text": "Nothing at all."
+            },
+            "3": {
+              "text": "That's nice of you to offer."
+            },
+            "4": {
+              "text": "Feel free."
+            }
+          }
+        },
+        "14": {
+          "part": "A",
+          "correct_text": null,
+          "index": 14,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "She has a job with animals."
+            },
+            "1": {
+              "text": "She only likes sea animals."
+            },
+            "2": {
+              "text": "She is going to be an animal doctor."
+            },
+            "3": {
+              "text": "She finished studying a year ago."
+            }
+          }
+        },
+        "15": {
+          "part": "A",
+          "correct_text": null,
+          "index": 15,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "she found out about an organisation called Archelon."
+            },
+            "1": {
+              "text": "she enjoyed herself and formed new friendships."
+            },
+            "2": {
+              "text": "she volunteered for several animal organisations."
+            },
+            "3": {
+              "text": "she worked for Archelon as part of her training."
+            }
+          }
+        },
+        "2": {
+          "part": "A",
+          "correct_text": null,
+          "index": 2,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "was joined"
+            },
+            "1": {
+              "text": "had joined"
+            },
+            "2": {
+              "text": "has joined"
+            },
+            "3": {
+              "text": "will join"
+            },
+            "4": {
+              "text": "will be joined"
+            }
+          }
+        },
+        "3": {
+          "part": "A",
+          "correct_text": null,
+          "index": 3,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "was playing"
+            },
+            "1": {
+              "text": "was played"
+            },
+            "2": {
+              "text": "has played"
+            },
+            "3": {
+              "text": "has been playing"
+            },
+            "4": {
+              "text": "will play"
+            }
+          }
+        },
+        "4": {
+          "part": "A",
+          "correct_text": null,
+          "index": 4,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "the most polite"
+            },
+            "1": {
+              "text": "more politer"
+            },
+            "2": {
+              "text": "the most politest"
+            },
+            "3": {
+              "text": "more polite"
+            },
+            "4": {
+              "text": "polite"
+            }
+          }
+        },
+        "5": {
+          "part": "A",
+          "correct_text": null,
+          "index": 5,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "a hundred"
+            },
+            "1": {
+              "text": "hundred"
+            },
+            "2": {
+              "text": "hundreds"
+            },
+            "3": {
+              "text": "hundred of"
+            },
+            "4": {
+              "text": "hundredth"
+            }
+          }
+        },
+        "6": {
+          "part": "A",
+          "correct_text": null,
+          "index": 6,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "The, —"
+            },
+            "1": {
+              "text": "—, —"
+            },
+            "2": {
+              "text": "The, the"
+            },
+            "3": {
+              "text": "A, —"
+            },
+            "4": {
+              "text": "—, the"
+            }
+          }
+        },
+        "7": {
+          "part": "A",
+          "correct_text": null,
+          "index": 7,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "a, the"
+            },
+            "1": {
+              "text": "—, a"
+            },
+            "2": {
+              "text": "the, —"
+            },
+            "3": {
+              "text": "—, —"
+            },
+            "4": {
+              "text": "the, the"
+            }
+          }
+        },
+        "8": {
+          "part": "A",
+          "correct_text": null,
+          "index": 8,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "known"
+            },
+            "1": {
+              "text": "keen"
+            },
+            "2": {
+              "text": "eager"
+            },
+            "3": {
+              "text": "good"
+            },
+            "4": {
+              "text": "aware"
+            }
+          }
+        },
+        "9": {
+          "part": "A",
+          "correct_text": null,
+          "index": 9,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "go"
+            },
+            "1": {
+              "text": "stay"
+            },
+            "2": {
+              "text": "attend"
+            },
+            "3": {
+              "text": "come"
+            },
+            "4": {
+              "text": "invite"
+            }
+          }
+        }
+      }
+    },
+    "ct2023_english_variant7_A": {
+      "is_active": true,
+      "part": "A",
+      "created_at": "2026-06-01T14:24:00.852867+00:00",
+      "id": "ct2023_english_variant7_A",
+      "__subcollection_questions": {
+        "0": {
+          "part": "A",
+          "correct_text": null,
+          "index": 0,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "have had"
+            },
+            "1": {
+              "text": "have"
+            },
+            "2": {
+              "text": "have been having"
+            },
+            "3": {
+              "text": "had"
+            },
+            "4": {
+              "text": "will have"
+            }
+          }
+        },
+        "1": {
+          "part": "A",
+          "correct_text": null,
+          "index": 1,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "has grown"
+            },
+            "1": {
+              "text": "was grown"
+            },
+            "2": {
+              "text": "has been growing"
+            },
+            "3": {
+              "text": "was growing"
+            },
+            "4": {
+              "text": "had grown"
+            }
+          }
+        },
+        "10": {
+          "part": "A",
+          "correct_text": null,
+          "index": 10,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "borrow"
+            },
+            "1": {
+              "text": "provide"
+            },
+            "2": {
+              "text": "lend"
+            },
+            "3": {
+              "text": "serve"
+            },
+            "4": {
+              "text": "contribute"
+            }
+          }
+        },
+        "11": {
+          "part": "A",
+          "correct_text": null,
+          "index": 11,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "take"
+            },
+            "1": {
+              "text": "follow"
+            },
+            "2": {
+              "text": "give"
+            },
+            "3": {
+              "text": "provide"
+            },
+            "4": {
+              "text": "let"
+            }
+          }
+        },
+        "12": {
+          "part": "A",
+          "correct_text": null,
+          "index": 12,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "Me neither."
+            },
+            "1": {
+              "text": "Here you are."
+            },
+            "2": {
+              "text": "Hardly any."
+            },
+            "3": {
+              "text": "Do you really?"
+            },
+            "4": {
+              "text": "Thanks, I can manage."
+            }
+          }
+        },
+        "13": {
+          "part": "A",
+          "correct_text": null,
+          "index": 13,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "I'm afraid I don't."
+            },
+            "1": {
+              "text": "I couldn't agree more."
+            },
+            "2": {
+              "text": "Very much."
+            },
+            "3": {
+              "text": "It's a pity."
+            },
+            "4": {
+              "text": "I don't mind. Either."
+            }
+          }
+        },
+        "14": {
+          "part": "A",
+          "correct_text": null,
+          "index": 14,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "explain why cruise ships have become so popular"
+            },
+            "1": {
+              "text": "persuade people to go on cruise ships"
+            },
+            "2": {
+              "text": "compare cruise ships with a typical holiday resort"
+            },
+            "3": {
+              "text": "describe how the services cruise ships offer have changed"
+            }
+          }
+        },
+        "15": {
+          "part": "A",
+          "correct_text": null,
+          "index": 15,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "they carry large numbers of cars as well as passengers."
+            },
+            "1": {
+              "text": "their engines are not as efficient as those of other ships."
+            },
+            "2": {
+              "text": "it takes more energy to move through water than over land."
+            },
+            "3": {
+              "text": "they use types of fuel that are not permitted on land."
+            }
+          }
+        },
+        "2": {
+          "part": "A",
+          "correct_text": null,
+          "index": 2,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "is changed"
+            },
+            "1": {
+              "text": "was changed"
+            },
+            "2": {
+              "text": "has changed"
+            },
+            "3": {
+              "text": "changes"
+            },
+            "4": {
+              "text": "had changed"
+            }
+          }
+        },
+        "3": {
+          "part": "A",
+          "correct_text": null,
+          "index": 3,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "upload"
+            },
+            "1": {
+              "text": "are uploading"
+            },
+            "2": {
+              "text": "uploaded"
+            },
+            "3": {
+              "text": "are uploaded"
+            },
+            "4": {
+              "text": "will upload"
+            }
+          }
+        },
+        "4": {
+          "part": "A",
+          "correct_text": null,
+          "index": 4,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "more common"
+            },
+            "1": {
+              "text": "more commoner"
+            },
+            "2": {
+              "text": "most commonest"
+            },
+            "3": {
+              "text": "more commonest"
+            },
+            "4": {
+              "text": "common"
+            }
+          }
+        },
+        "5": {
+          "part": "A",
+          "correct_text": null,
+          "index": 5,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "hundred"
+            },
+            "1": {
+              "text": "hundreds"
+            },
+            "2": {
+              "text": "a hundred"
+            },
+            "3": {
+              "text": "hundred of"
+            },
+            "4": {
+              "text": "hundredth"
+            }
+          }
+        },
+        "6": {
+          "part": "A",
+          "correct_text": null,
+          "index": 6,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "The, —"
+            },
+            "1": {
+              "text": "The, the"
+            },
+            "2": {
+              "text": "—, the"
+            },
+            "3": {
+              "text": "—, —"
+            },
+            "4": {
+              "text": "—, a"
+            }
+          }
+        },
+        "7": {
+          "part": "A",
+          "correct_text": null,
+          "index": 7,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "the, the"
+            },
+            "1": {
+              "text": "a, —"
+            },
+            "2": {
+              "text": "a, a"
+            },
+            "3": {
+              "text": "a, the"
+            },
+            "4": {
+              "text": "—, —"
+            }
+          }
+        },
+        "8": {
+          "part": "A",
+          "correct_text": null,
+          "index": 8,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "provide"
+            },
+            "1": {
+              "text": "require"
+            },
+            "2": {
+              "text": "approve"
+            },
+            "3": {
+              "text": "insist"
+            },
+            "4": {
+              "text": "convince"
+            }
+          }
+        },
+        "9": {
+          "part": "A",
+          "correct_text": null,
+          "index": 9,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "find"
+            },
+            "1": {
+              "text": "discover"
+            },
+            "2": {
+              "text": "pick"
+            },
+            "3": {
+              "text": "offer"
+            },
+            "4": {
+              "text": "choose"
+            }
+          }
+        }
+      }
+    },
+    "ct2023_english_variant8_A": {
+      "created_at": "2026-06-01T14:24:21.014939+00:00",
+      "is_active": true,
+      "part": "A",
+      "id": "ct2023_english_variant8_A",
+      "__subcollection_questions": {
+        "0": {
+          "part": "A",
+          "correct_text": null,
+          "index": 0,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "presents"
+            },
+            "1": {
+              "text": "has presented"
+            },
+            "2": {
+              "text": "will present"
+            },
+            "3": {
+              "text": "is presented"
+            },
+            "4": {
+              "text": "is presenting"
+            }
+          }
+        },
+        "1": {
+          "part": "A",
+          "correct_text": null,
+          "index": 1,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "has taken"
+            },
+            "1": {
+              "text": "was taken"
+            },
+            "2": {
+              "text": "took"
+            },
+            "3": {
+              "text": "has been taking"
+            },
+            "4": {
+              "text": "is taken"
+            }
+          }
+        },
+        "10": {
+          "part": "A",
+          "correct_text": null,
+          "index": 10,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "worried"
+            },
+            "1": {
+              "text": "interested"
+            },
+            "2": {
+              "text": "hurt"
+            },
+            "3": {
+              "text": "occupied"
+            },
+            "4": {
+              "text": "afraid"
+            }
+          }
+        },
+        "11": {
+          "part": "A",
+          "correct_text": null,
+          "index": 11,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "risk"
+            },
+            "1": {
+              "text": "chance"
+            },
+            "2": {
+              "text": "part"
+            },
+            "3": {
+              "text": "place"
+            },
+            "4": {
+              "text": "position"
+            }
+          }
+        },
+        "12": {
+          "part": "A",
+          "correct_text": null,
+          "index": 12,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "Could you do me a big favour?"
+            },
+            "1": {
+              "text": "Would you care for some more coffee?"
+            },
+            "2": {
+              "text": "How about doing it later?"
+            },
+            "3": {
+              "text": "Are you going to watch a movie tonight?"
+            },
+            "4": {
+              "text": "Will you help me?"
+            }
+          }
+        },
+        "13": {
+          "part": "A",
+          "correct_text": null,
+          "index": 13,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "No, go ahead."
+            },
+            "1": {
+              "text": "Sure, with pleasure."
+            },
+            "2": {
+              "text": "Either is fine with me."
+            },
+            "3": {
+              "text": "Here you are."
+            },
+            "4": {
+              "text": "Are you really?"
+            }
+          }
+        },
+        "14": {
+          "part": "A",
+          "correct_text": null,
+          "index": 14,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "worried she was too young."
+            },
+            "1": {
+              "text": "nervous about doing it."
+            },
+            "2": {
+              "text": "keen to copy her father."
+            },
+            "3": {
+              "text": "pleased to be allowed to do it."
+            }
+          }
+        },
+        "15": {
+          "part": "A",
+          "correct_text": null,
+          "index": 15,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "She expects too much of herself."
+            },
+            "1": {
+              "text": "She sometimes loses interest."
+            },
+            "2": {
+              "text": "She always plans for them carefully."
+            },
+            "3": {
+              "text": "She enjoys them more and more."
+            }
+          }
+        },
+        "2": {
+          "part": "A",
+          "correct_text": null,
+          "index": 2,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "showed"
+            },
+            "1": {
+              "text": "were showing"
+            },
+            "2": {
+              "text": "were shown"
+            },
+            "3": {
+              "text": "have shown"
+            },
+            "4": {
+              "text": "will show"
+            }
+          }
+        },
+        "3": {
+          "part": "A",
+          "correct_text": null,
+          "index": 3,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "has becoming"
+            },
+            "1": {
+              "text": "was become"
+            },
+            "2": {
+              "text": "was becoming"
+            },
+            "3": {
+              "text": "will be become"
+            },
+            "4": {
+              "text": "has become"
+            }
+          }
+        },
+        "4": {
+          "part": "A",
+          "correct_text": null,
+          "index": 4,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "more furious"
+            },
+            "1": {
+              "text": "the most furiouser"
+            },
+            "2": {
+              "text": "most furiouser"
+            },
+            "3": {
+              "text": "more furiouser"
+            },
+            "4": {
+              "text": "furious"
+            }
+          }
+        },
+        "5": {
+          "part": "A",
+          "correct_text": null,
+          "index": 5,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "Thousand"
+            },
+            "1": {
+              "text": "A thousand"
+            },
+            "2": {
+              "text": "Thousandth"
+            },
+            "3": {
+              "text": "Thousand of"
+            },
+            "4": {
+              "text": "Thousands"
+            }
+          }
+        },
+        "6": {
+          "part": "A",
+          "correct_text": null,
+          "index": 6,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "The, a"
+            },
+            "1": {
+              "text": "The, —"
+            },
+            "2": {
+              "text": "—, —"
+            },
+            "3": {
+              "text": "The, the"
+            },
+            "4": {
+              "text": "—, the"
+            }
+          }
+        },
+        "7": {
+          "part": "A",
+          "correct_text": null,
+          "index": 7,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "a, the"
+            },
+            "1": {
+              "text": "the, —"
+            },
+            "2": {
+              "text": "—, the"
+            },
+            "3": {
+              "text": "—, a"
+            },
+            "4": {
+              "text": "the, a"
+            }
+          }
+        },
+        "8": {
+          "part": "A",
+          "correct_text": null,
+          "index": 8,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "put"
+            },
+            "1": {
+              "text": "got"
+            },
+            "2": {
+              "text": "gave"
+            },
+            "3": {
+              "text": "took"
+            },
+            "4": {
+              "text": "caught"
+            }
+          }
+        },
+        "9": {
+          "part": "A",
+          "correct_text": null,
+          "index": 9,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "allow"
+            },
+            "1": {
+              "text": "let"
+            },
+            "2": {
+              "text": "agree"
+            },
+            "3": {
+              "text": "enable"
+            },
+            "4": {
+              "text": "say"
+            }
+          }
+        }
+      }
+    },
+    "ct2023_english_variant9_A": {
+      "is_active": true,
+      "part": "A",
+      "created_at": "2026-06-01T14:24:40.042903+00:00",
+      "id": "ct2023_english_variant9_A",
+      "__subcollection_questions": {
+        "0": {
+          "part": "A",
+          "correct_text": null,
+          "index": 0,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "is launched"
+            },
+            "1": {
+              "text": "was launching"
+            },
+            "2": {
+              "text": "has been launching"
+            },
+            "3": {
+              "text": "was launched"
+            },
+            "4": {
+              "text": "has launched"
+            }
+          }
+        },
+        "1": {
+          "part": "A",
+          "correct_text": null,
+          "index": 1,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "now uses"
+            },
+            "1": {
+              "text": "is now using"
+            },
+            "2": {
+              "text": "is now used"
+            },
+            "3": {
+              "text": "will now use"
+            },
+            "4": {
+              "text": "has now used"
+            }
+          }
+        },
+        "10": {
+          "part": "A",
+          "correct_text": null,
+          "index": 10,
+          "correct_option": 2,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "compared"
+            },
+            "1": {
+              "text": "than"
+            },
+            "2": {
+              "text": "added"
+            },
+            "3": {
+              "text": "except"
+            },
+            "4": {
+              "text": "regarded"
+            }
+          }
+        },
+        "11": {
+          "part": "A",
+          "correct_text": null,
+          "index": 11,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "waste"
+            },
+            "1": {
+              "text": "pay"
+            },
+            "2": {
+              "text": "spend"
+            },
+            "3": {
+              "text": "concentrate"
+            },
+            "4": {
+              "text": "focus"
+            }
+          }
+        },
+        "12": {
+          "part": "A",
+          "correct_text": null,
+          "index": 12,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "Not at all."
+            },
+            "1": {
+              "text": "Don't mention it."
+            },
+            "2": {
+              "text": "It means a lot to me."
+            },
+            "3": {
+              "text": "Poor thing!"
+            },
+            "4": {
+              "text": "Hardly any."
+            }
+          }
+        },
+        "13": {
+          "part": "A",
+          "correct_text": null,
+          "index": 13,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "It doesn't matter."
+            },
+            "1": {
+              "text": "Sorry, I'm afraid I don't."
+            },
+            "2": {
+              "text": "Very much."
+            },
+            "3": {
+              "text": "No, thanks, I can manage."
+            },
+            "4": {
+              "text": "No problem."
+            }
+          }
+        },
+        "14": {
+          "part": "A",
+          "correct_text": null,
+          "index": 14,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "stressed because he had enough to do already"
+            },
+            "1": {
+              "text": "worried by the lack of photography equipment"
+            },
+            "2": {
+              "text": "anxious about his photography skills"
+            },
+            "3": {
+              "text": "disappointed as he wanted to run a sports club"
+            }
+          }
+        },
+        "15": {
+          "part": "A",
+          "correct_text": null,
+          "index": 15,
+          "correct_option": 4,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "how much help he would need"
+            },
+            "1": {
+              "text": "which students the club was for"
+            },
+            "2": {
+              "text": "where sessions would take place"
+            },
+            "3": {
+              "text": "what the purpose of the club was"
+            }
+          }
+        },
+        "2": {
+          "part": "A",
+          "correct_text": null,
+          "index": 2,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "will already be visited"
+            },
+            "1": {
+              "text": "has already visited"
+            },
+            "2": {
+              "text": "had already visited"
+            },
+            "3": {
+              "text": "was already visited"
+            },
+            "4": {
+              "text": "is already visited"
+            }
+          }
+        },
+        "3": {
+          "part": "A",
+          "correct_text": null,
+          "index": 3,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "are taking"
+            },
+            "1": {
+              "text": "were taking"
+            },
+            "2": {
+              "text": "are taken"
+            },
+            "3": {
+              "text": "will be taken"
+            },
+            "4": {
+              "text": "had taken"
+            }
+          }
+        },
+        "4": {
+          "part": "A",
+          "correct_text": null,
+          "index": 4,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "anxious"
+            },
+            "1": {
+              "text": "more anxious"
+            },
+            "2": {
+              "text": "most anxious"
+            },
+            "3": {
+              "text": "the most anxious"
+            },
+            "4": {
+              "text": "more anxiouser"
+            }
+          }
+        },
+        "5": {
+          "part": "A",
+          "correct_text": null,
+          "index": 5,
+          "correct_option": 1,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "A thousand"
+            },
+            "1": {
+              "text": "A thousands"
+            },
+            "2": {
+              "text": "Thousands"
+            },
+            "3": {
+              "text": "Thousand of"
+            },
+            "4": {
+              "text": "Thousandth"
+            }
+          }
+        },
+        "6": {
+          "part": "A",
+          "correct_text": null,
+          "index": 6,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "—, —"
+            },
+            "1": {
+              "text": "An, the"
+            },
+            "2": {
+              "text": "—, the"
+            },
+            "3": {
+              "text": "The, —"
+            },
+            "4": {
+              "text": "The, the"
+            }
+          }
+        },
+        "7": {
+          "part": "A",
+          "correct_text": null,
+          "index": 7,
+          "correct_option": 3,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "the, a"
+            },
+            "1": {
+              "text": "—, a"
+            },
+            "2": {
+              "text": "the, —"
+            },
+            "3": {
+              "text": "—, the"
+            },
+            "4": {
+              "text": "an, —"
+            }
+          }
+        },
+        "8": {
+          "part": "A",
+          "correct_text": null,
+          "index": 8,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "kept"
+            },
+            "1": {
+              "text": "made"
+            },
+            "2": {
+              "text": "appeared"
+            },
+            "3": {
+              "text": "carried"
+            },
+            "4": {
+              "text": "led"
+            }
+          }
+        },
+        "9": {
+          "part": "A",
+          "correct_text": null,
+          "index": 9,
+          "correct_option": 5,
+          "image_url": null,
+          "__subcollection_options": {
+            "0": {
+              "text": "afforded"
+            },
+            "1": {
+              "text": "let"
+            },
+            "2": {
+              "text": "resembled"
+            },
+            "3": {
+              "text": "provided"
+            },
+            "4": {
+              "text": "allowed"
+            }
+          }
+        }
+      }
+    },
+    "test_admin_001_history_belarus_А_1779904494": {
+      "created_at": "2026-05-27T20:54:54.138272+00:00",
+      "id": "test_admin_001_history_belarus_А_1779904494",
+      "subject_id": "history_belarus",
+      "part": "А",
+      "title": "тест1",
+      "is_active": true,
+      "questions": [
+        {
+          "text": "имя",
+          "correct_text": null,
+          "index": 0,
+          "type": "choice",
+          "image_url": null,
+          "part": "А",
+          "correct_option": 1,
+          "options": [
+            "даня",
+            "2",
+            "3",
+            "4"
+          ]
+        }
+      ],
+      "teacher_id": "admin_001"
+    },
+    "test_admin_001_history_belarus_А_1779904823": {
+      "created_at": "2026-05-27T21:00:23.457533+00:00",
+      "subject_id": "history_belarus",
+      "id": "test_admin_001_history_belarus_А_1779904823",
+      "part": "А",
+      "title": "фываывавыа",
+      "is_active": true,
+      "questions": [
+        {
+          "text": "ываыва",
+          "correct_text": null,
+          "index": 0,
+          "type": "choice",
+          "image_url": null,
+          "part": "А",
+          "correct_option": 0,
+          "options": [
+            "ыываыва",
+            "ываыыва",
+            "ываыва",
+            "ываы"
+          ]
+        },
+        {
+          "text": "уцкуцкцу",
+          "type": "choice",
+          "index": 1,
+          "correct_text": null,
+          "image_url": null,
+          "part": "А",
+          "correct_option": 1,
+          "options": [
+            "аваыва",
+            "куцкцуцкц",
+            "ваываыв",
+            "ываыва"
+          ]
+        }
+      ],
+      "teacher_id": "admin_001"
+    },
+    "test_admin_001_history_belarus_В_1780307448": {
+      "created_at": "2026-06-01T12:50:48.542814+00:00",
+      "subject_id": "history_belarus",
+      "id": "test_admin_001_history_belarus_В_1780307448",
+      "is_active": true,
+      "title": "год",
+      "part": "В",
+      "questions": [
+        {
+          "text": "какой сейчас год",
+          "type": "text",
+          "index": 0,
+          "correct_text": "2026",
+          "image_url": null,
+          "part": "В",
+          "correct_option": null,
+          "options": []
+        }
+      ],
+      "teacher_id": "admin_001"
+    }
+  }
+}
